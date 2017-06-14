@@ -18,4 +18,5 @@ Language: Russian
 October 12, 2015
 
 <a href="https://www.slideshare.net/raxwunter/migration-microservices-to-graphql">GraphQL adoption in real life.</a>
+
 Language: English
