@@ -15,7 +15,7 @@ Language: Russian
 
 # Frankfurt JS
 
-October 12, 2015
+October 12, 2016
 
 <a href="https://www.slideshare.net/raxwunter/migration-microservices-to-graphql">GraphQL adoption in real life.</a>
 
