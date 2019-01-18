@@ -1,5 +1,13 @@
 # Frankfurt AWS Meetup
 
+Jan 30, 2019
+
+<a href="https://www.meetup.com/aws-frankfurt/events/258092473/">Rethinking your application with Lambda Layers </a>
+
+Language: English
+
+# Frankfurt AWS Meetup
+
 May 23, 2018
 
 <a href="https://www.meetup.com/aws-frankfurt/events/250765133/">Serverless Microservices in production</a>
