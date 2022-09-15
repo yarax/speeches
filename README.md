@@ -1,3 +1,11 @@
+# Frankfurt AWS Meetup
+
+May 2022
+
+<a href="https://www.meetup.com/fra_aws/events/286179705/">Building a Data Lake at DB Netz AG</a>
+
+Language: English / German
+
 # Cloud Atlas 
 
 Sep 3, 2019
